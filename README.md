@@ -19,6 +19,20 @@ node
 yarn
 ```
 
+You need google firebase account as well
+- create `.env` file in root folder with following details.
+- or rename `.env.example` to `.env` and update following details.
+```sh
+NODE_ENV=development
+API_KEY=some_key
+AUTH_DOMAIN=domain
+DB_URL=db_url
+PROJECT_ID=project_id
+STORAGE_BUCKET=bucket_url
+MESSAGING_SENDER_ID=messagind_id
+
+```
+
 ```sh
 # clone the repository
 > git clone https://github.com/abhnvshrma/fabric-meetup.git
