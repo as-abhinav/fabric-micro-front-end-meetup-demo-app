@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout should match snapshot 1`] = `
+<section
+  className="HeroLayout-root-1"
+>
+  <div
+    className="MuiContainer-root HeroLayout-container-2 MuiContainer-maxWidthLg"
+  >
+    <img
+      alt="wonder"
+      height="80"
+      src="https://uploads-ssl.webflow.com/5d8ac4a88c12c797c7368ab7/5d9d4e6edf1e449b647b1ac0_FabricLogo.svg"
+      width="147"
+    />
+    <div>
+      blah child
+    </div>
+    <div
+      className="HeroLayout-backdrop-3"
+    />
+    <div
+      className="HeroLayout-background-4 something"
+    />
+  </div>
+</section>
+`;

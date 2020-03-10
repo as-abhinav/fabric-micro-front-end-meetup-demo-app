@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero section should match snapshot 1`] = `
+<section
+  className="HeroLayout-root-9"
+>
+  <div
+    className="MuiContainer-root HeroLayout-container-10 MuiContainer-maxWidthLg"
+  >
+    <img
+      alt="wonder"
+      height="80"
+      src="https://uploads-ssl.webflow.com/5d8ac4a88c12c797c7368ab7/5d9d4e6edf1e449b647b1ac0_FabricLogo.svg"
+      width="147"
+    />
+    <h1
+      className="MuiTypography-root MuiTypography-h2 MuiTypography-colorInherit MuiTypography-alignCenter"
+    >
+      Fabric - Meetup
+      <span
+        className="Typography-markedH2Center-22"
+      />
+    </h1>
+    <div
+      className="Hero-subContainer-2"
+    >
+      <h3
+        className="MuiTypography-root Hero-subHead-6 MuiTypography-h5 MuiTypography-alignCenter"
+      >
+        Details
+        <span />
+      </h3>
+      <p
+        className="MuiTypography-root Hero-body-7 MuiTypography-body1"
+      >
+        Web applications are getting more and more complex. Many organisations are struggling to maintain monolithic front-end codebases and to scale their front-end development processes across multiple teams.
+      </p>
+      <p
+        className="MuiTypography-root Hero-body-7 MuiTypography-body1"
+      >
+        How Micro Frontends can help big teams? What are their main advantages? What are their restrictions? Let’s take a closer look at a working Micro Frontend application developed with multiple apps using multiple frameworks.
+      </p>
+      <p
+        className="MuiTypography-root Hero-body-7 MuiTypography-body1"
+      >
+        Micro frontends are just one approach to managing that complexity, by splitting products up into smaller, simpler applications that can be delivered all the way to production by independent, autonomous teams.
+      </p>
+      <p
+        className="MuiTypography-root Hero-body-7 MuiTypography-body1"
+      >
+        Let's dig deep and learn more about Micro Frontends in detail.
+      </p>
+      <h3
+        className="MuiTypography-root Hero-subHead-6 MuiTypography-h5 MuiTypography-alignCenter"
+      >
+        About the host
+        <span />
+      </h3>
+      <p
+        className="MuiTypography-root Hero-body-7 MuiTypography-body1"
+      >
+        With over 18-years in front-end development, Abhinav Sharma is primarily responsible for UI development, UX analysis, and designing UI architecture at Fabric Group.
+        <span />
+      </p>
+    </div>
+    <div
+      className="Hero-btnContainer-4"
+    >
+      <h3
+        className="MuiTypography-root Hero-subHead-6 MuiTypography-h5 MuiTypography-alignCenter"
+      >
+        Explore more
+        <span />
+      </h3>
+      
+      
+      <a
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-56 MuiButton-contained Hero-button-3 MuiButton-containedSecondary MuiButton-containedSizeLarge MuiButton-sizeLarge WithStyles(ForwardRef(Button))-sizeLarge-58"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Agenda
+        </span>
+      </a>
+      <a
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-56 MuiButton-contained Hero-button-3 MuiButton-containedSecondary MuiButton-containedSizeLarge MuiButton-sizeLarge WithStyles(ForwardRef(Button))-sizeLarge-58"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Questions
+        </span>
+      </a>
+      <a
+        aria-disabled={false}
+        className="MuiButtonBase-root MuiButton-root WithStyles(ForwardRef(Button))-root-56 MuiButton-contained Hero-button-3 MuiButton-containedSecondary MuiButton-containedSizeLarge MuiButton-sizeLarge WithStyles(ForwardRef(Button))-sizeLarge-58"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        role="button"
+        tabIndex={0}
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Feedback
+        </span>
+      </a>
+      
+      
+    </div>
+    <div
+      className="HeroLayout-backdrop-11"
+    />
+    <div
+      className="HeroLayout-background-12 Hero-background-1"
+    />
+  </div>
+</section>
+`;
